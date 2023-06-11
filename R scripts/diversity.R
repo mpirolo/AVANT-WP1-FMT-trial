@@ -1,6 +1,6 @@
 ####################################PACKAGES AND DIRECTORY###################################################
 #Set working directory
-setwd("C:/Users/Administrator/Downloads/FMT/ANALISI/NEW/Github") #Change me!
+setwd("C:/Users/Administrator/Downloads/FMT") #Change me!
 
 #Load packages
 library(phyloseq)
