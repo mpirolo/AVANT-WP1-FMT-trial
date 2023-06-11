@@ -1,0 +1,74 @@
+ID	Pig_ID	Pig_No	Sex	Round	Treatment	Type	Day
+FMT_05	H1	915-21	M	1	FFT	Colon content	24
+FMT_06	Z1	916-21	F	1	GMT	Colon content	24
+FMT_07	Y1	917-21	M	1	FMT	Colon content	28
+FMT_08	?1	918-21	F	1	CON	Colon content	29
+FMT_09	C1	919-21	M	1	GMT	Colon content	29
+FMT_10	?1	920-21	M	1	FFT	Colon content	29
+FMT_11	F1	921-21	F	1	FMT	Colon content	29
+FMT_12	V1	922-21	F	1	CON	Colon content	29
+FMT_13	S1	923-21	M	1	GMT	Colon content	29
+FMT_14	I1	924-21	M	1	FFT	Colon content	29
+FMT_15	Q1	925-21	F	1	FMT	Colon content	29
+FMT_16	Æ1	926-21	M	1	CON	Colon content	29
+FMT_17	T1	927-21	F	1	GMT	Colon content	29
+FMT_18	?1	928-21	F	1	FFT	Colon content	29
+FMT_19	Å1	929-21	M	1	FMT	Colon content	29
+FMT_20	K1	930-21	F	1	CON	Colon content	29
+FMT_21	D1	931-21	F	1	GMT	Colon content	29
+FMT_22	P1	932-21	F	1	FFT	Colon content	29
+FMT_23	B1	933-21	M	1	FMT	Colon content	29
+FMT_24	?1	934-21	M	1	CON	Colon content	29
+FMT_25	X1	935-21	F	1	GMT	Colon content	29
+FMT_26	A1	936-21	F	1	FFT	Colon content	29
+FMT_27	J1	937-21	F	1	FMT	Colon content	29
+FMT_28	U1	938-21	M	1	CON	Colon content	29
+FMT_29	M1	939-21	M	1	GMT	Colon content	29
+FMT_30	?1	940-21	F	1	FFT	Colon content	29
+FMT_31	L1	941-21	M	1	FMT	Colon content	29
+FMT_32	R1	942-21	M	1	CON	Colon content	29
+FMT_33	G1	943-21	F	1	GMT	Colon content	29
+FMT_34	?1	944-21	M	1	FFT	Colon content	29
+FMT_35	?1	945-21	M	1	FMT	Colon content	29
+FMT_36	W1	946-21	F	1	CON	Colon content	29
+FMT_37	O1	947-21	M	1	GMT	Colon content	29
+FMT_38	N1	948-21	M	1	FFT	Colon content	29
+FMT_39	V2	949-21	F	2	FMT	Colon content	29
+FMT_40	J2	950-21	F	2	FFT	Colon content	29
+FMT_41	X2	951-21	F	2	CON	Colon content	29
+FMT_42	W2	952-21	F	2	GMT	Colon content	29
+FMT_43	E2	953-21	F	2	FMT	Colon content	29
+FMT_44	F2	954-21	F	2	FFT	Colon content	29
+FMT_45	H2	955-21	F	2	CON	Colon content	29
+FMT_46	?2	956-21	F	2	GMT	Colon content	29
+FMT_47	?2	957-21	F	2	FMT	Colon content	29
+FMT_48	?2	958-21	F	2	FFT	Colon content	29
+FMT_49	K2	959-21	F	2	CON	Colon content	29
+FMT_50	?2	960-21	F	2	GMT	Colon content	29
+FMT_51	Å2	961-21	M	2	FMT	Colon content	29
+FMT_52	?2	962-21	M	2	FFT	Colon content	29
+FMT_53	R2	963-21	M	2	CON	Colon content	29
+FMT_54	O2	964-21	M	2	GMT	Colon content	29
+FMT_55	Æ2	965-21	M	2	FMT	Colon content	29
+FMT_56	S2	966-21	M	2	FFT	Colon content	29
+FMT_57	Q2	967-21	M	2	CON	Colon content	29
+FMT_58	Y2	968-21	M	2	GMT	Colon content	29
+FMT_59	?2	969-21	M	2	FMT	Colon content	29
+FMT_60	B2	970-21	M	2	FFT	Colon content	29
+FMT_61	M2	971-21	M	2	CON	Colon content	29
+FMT_62	P2	972-21	M	2	GMT	Colon content	29
+FMT_63	L2	973-21	M	2	FMT	Colon content	29
+FMT_64	I2	974-21	M	2	FFT	Colon content	29
+FMT_65	U2	975-21	M	2	CON	Colon content	29
+FMT_66	Z2	976-21	F	2	GMT	Colon content	29
+FMT_67	N2	977-21	M	2	FMT	Colon content	29
+FMT_68	?2	978-21	F	2	FFT	Colon content	29
+FMT_69	G2	979-21	F	2	CON	Colon content	29
+FMT_70	-	-	-	-	FMT	Pooled donor colon cont. with 3.3% glycerol	-
+FMT_71	-	-	-	-	GMT	Pooled donor gastric cont. with 3.3% glycerol	-
+FMT_72	-	-	-	-	FFT	Pooled filtrated donor colon cont. with 3.3% glycerol	-
+FMT_73	-	-	-	-	CON	Saline with 3.3% glycerol	-
+FMT_74	-	-	-	-	FMT	Pooled donor colon cont. with 3.3% glycerol	-
+FMT_75	-	-	-	-	GMT	Pooled donor gastric cont. with 3.3% glycerol	-
+FMT_76	-	-	-	-	FFT	Pooled filtrated donor colon cont. with 3.3% glycerol	-
+FMT_77	-	-	-	-	CON	Saline with 3.3% glycerol	-
