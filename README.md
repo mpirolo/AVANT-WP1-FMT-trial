@@ -13,9 +13,9 @@ To examine the impact of transplanting feces or gastric content on health and gr
 ### data
 This folder contains all datafiles:
 - **ps_FMT.rds**: phyloseq object in R data format for the analysis
-- **metadata.tsv**: metadata used for the analysis
+- **metadata.tsv**: tab-separated values file with relevant metadata for the analysis
 ## R scripts
 This folder contains all R scripts:
-- **composition.R**: R script for taxonomic profiling
+- **composition.R**: R script for visualization of taxonomic composition
 - **diversity.R**: R script for alpha- and beta-diversity analysis
 - **DESeq2.R**: R script for differential abundance analysis using [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
