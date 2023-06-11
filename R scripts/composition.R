@@ -10,19 +10,6 @@ library(RColorBrewer)
 library(MicrobiotaProcess)
 library(ggpubr)
 
-library(readxl)
-library(reshape2)
-library(tidyr)
-library(rstatix)
-library(vegan)
-library(patchwork)
-library(DESeq2)
-library(tibble)
-library(stringr)
-library(ComplexHeatmap)
-library(circlize)
-library(genefilter)
-
 #####################################SET THEME AND COLORS###################################################
 mytheme<- theme(plot.title = element_text(hjust=0.5, family = "Arial", size=12),
                 legend.position ="right",
