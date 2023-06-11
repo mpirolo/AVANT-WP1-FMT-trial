@@ -10,20 +10,6 @@ library(RColorBrewer)
 library(MicrobiotaProcess)
 library(ggpubr)
 
-#####################################SET THEME AND COLORS###################################################
-mytheme<- theme(plot.title = element_text(hjust=0.5, family = "Arial", size=12),
-                legend.position ="right",
-                legend.text = element_text(family = "Arial", size = 10),
-                legend.background = element_blank(),
-                strip.background = element_blank(),
-                strip.placement = "outside",
-                strip.text = element_text(family = "Arial", size = 10),
-                axis.text = element_text(family = 'Arial', size = 10, color="black"),
-                panel.grid = element_blank())
-
-#Set colors
-cols = c("CON"="#af8dc3","FFT"="#91bfdb","FMT"="#fc8d59","GMT"="#7fbf7b")
-
 #####################################IMPORT PHYLOSEQ###################################################
 ps <- readRDS("ps_FMT.rds")
 ps
