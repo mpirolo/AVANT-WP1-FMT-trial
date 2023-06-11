@@ -77,7 +77,7 @@ shannon_stat <- shannon %>%
   wilcox_test(Index~Treatment) %>%
   adjust_pvalue(method = "BH")%>%
   add_significance(p.col = "p") %>%
-  filter(p<=0.05) %>%
+  filter(p.adj<=0.05) %>%
   mutate(y.position=c(5))
 shannon_stat = subset(shannon_stat, group1 == "CON")
 
@@ -86,7 +86,7 @@ chao1_stat <- chao1 %>%
   wilcox_test(Index~Treatment) %>%
   adjust_pvalue(method = "BH")%>%
   add_significance(p.col = "p") %>%
-  filter(p<=0.05) %>%
+  filter(p.adj<=0.05) %>%
   mutate(y.position=c(5))
 chao1_stat = subset(chao1_stat, group1 == "CON")
 
