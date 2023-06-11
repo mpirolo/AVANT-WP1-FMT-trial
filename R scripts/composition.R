@@ -76,7 +76,7 @@ genus_graph <- ggbartax(obj=genus, facetNames="Treatment", topn=11, plotgroup=TR
 #genus_graph
 
 #Save in pdf
-pdf("Figure_3.pdf")
+pdf("composition.pdf")
 ggarrange(family_graph,genus_graph,
           nrow=2,ncol=1,widths=c(1,1),
           labels=c("A","B"),font.label = list(size = 12, color = "black"))
