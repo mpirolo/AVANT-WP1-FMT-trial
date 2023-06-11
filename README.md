@@ -1,5 +1,5 @@
-# Pilot-repository-16S
-Pilot repository of 16S rRNA microbiome data analysis scripts for AVANT WP1 FMT trial
+# AVANT WP1 FMT trial
+Repository of 16S rRNA microbiome data analysis scripts for AVANT WP1 FMT trial
 
 *updated 11/06/2023, Mattia Pirolo*
 
