@@ -1,5 +1,5 @@
 # AVANT WP1 FMT trial
-This is the repository for all scripts for 16S rRNA microbiome data analysis of the FMT trial in [AVANT](https://avant-project.eu/).
+This is the repository for R scripts used in the analysis of 16S rRNA microbiome data analysis generated in the FMT trial from the EU Innovation Action project [AVANT](https://avant-project.eu/).
 
 *updated 11/06/2023, Mattia Pirolo*
 
